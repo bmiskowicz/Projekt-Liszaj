@@ -1,0 +1,256 @@
+﻿  Buttons.cpp
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(6,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(6,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(7,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(7,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(26,14): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(27,14): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(29,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(30,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(58,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(58,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(59,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(59,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(73,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(73,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(91,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Buttons.cpp(91,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Liszaj.cpp
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(166,78): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(166,126): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(169,113): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(170,78): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(170,60): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(211,68): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(221,69): warning C4018: '<': signed/unsigned mismatch
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(363,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(363,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(364,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(364,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(365,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(365,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(366,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(366,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(387,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(387,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(388,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(388,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(389,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(389,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(390,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\xRei\Desktop\Liszaj\Liszaj.cpp(390,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  Generating code
+  5 of 147 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Liszaj.vcxproj -> C:\Users\xRei\Desktop\Liszaj\Release\Liszaj.exe

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\xRei\Desktop\Liszaj\</FILEPATH>
+      <FILENAME>Liszaj.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'TileMap::chance' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>TileMap::{ctor}</FUNCTION>
+    <DECORATED>??0TileMap@@QAE@XZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>TileMap::chance</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

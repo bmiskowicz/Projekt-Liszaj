@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\xRei\Desktop\Liszaj\</FILEPATH>
+      <FILENAME>Buttons.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Buttons::pressed' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Buttons::{ctor}</FUNCTION>
+    <DECORATED>??0Buttons@@QAE@HHHHVFont@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VColor@2@2@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Buttons::pressed</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\xRei\Desktop\Liszaj\</FILEPATH>
+      <FILENAME>Liszaj.cpp</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'TileMap::chance' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>TileMap::{ctor}</FUNCTION>
+    <DECORATED>??0TileMap@@QAE@XZ</DECORATED>
+    <FUNCLINE>81</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>TileMap::chance</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
